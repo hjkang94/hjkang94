@@ -31,7 +31,7 @@
   &nbsp
 </p>
 <br>
-<h3 align="center">🌈 Follow Me 🌈</h3>
+<h3 align="center">🌈 Contact 🌈</h3>
 <p align="center">
   <a href="https://hjkang.tistory.com/">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hjkang.tistory.com"/>
