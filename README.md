@@ -1,6 +1,6 @@
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Hj's%20GitHub!&fontAlign=70&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=HJ's%20GitHub!&fontAlign=70&fontAlignY=40&color=gradient)
 
 
 <h3 align="center">📚 Skill 📚</h3>
