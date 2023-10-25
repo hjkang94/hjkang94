@@ -1,7 +1,4 @@
-
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=HJ's%20GitHub!&fontAlign=70&fontAlignY=40&color=gradient)
-
 
 <h3 align="center">📚 Skill 📚</h3>
 <p align="center">
@@ -33,11 +30,11 @@
 <br>
 <h3 align="center">🌈 Contact 🌈</h3>
 <p align="center">
-  <a href="https://hjkang.tistory.com/">
+  <a href="https://hjkang.tistory.com/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://hjkang.tistory.com"/>
-    &nbsp
-    <a href="mailto:ee1217e@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ee1217e@gmail.com"/>
-    </a>
+  </a>
+  &nbsp
+  <a href="mailto:ee1217e@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ee1217e@gmail.com"/>
   </a>
 </p>
